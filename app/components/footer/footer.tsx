@@ -26,7 +26,7 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
             <p className="text-sm text-gray-400">B8/29 Penny Place, Arndell Park 2148, NSW, Australia</p>
-            <p className="text-sm text-gray-400">Phone: 0434 681 036</p>
+            <p className="text-sm text-gray-400">Phone: +61 414 473 451</p>
             <p className="text-sm text-gray-400">Email: info@ahsdriving.com</p>
           </div>
         </div>
